@@ -2,7 +2,7 @@
 
 This is a custom file compression and decompression utility built around the Huffman coding algorithm. 
 
-I designed this project as a two-part system to keep the core algorithm highly performant while still being easy to use. The actual compression math runs through a C++ command-line tool, which is managed by a C# WinForms graphical interface.
+We designed this project as a two-part system to keep the core algorithm highly performant while still being easy to use. The actual compression math runs through a C++ command-line tool, which is managed by a C# WinForms graphical interface.
 
 ### The Architecture
 
